@@ -84,7 +84,7 @@ C# provides robust support for asynchronous programming with the async and await
 
 ## Dependency injection
 
-Here’s an example of [dependency injection](./dependency-injection.md) in C#:
+Here’s an example of [[prog.patterns.dependency-injection]] in C#:
 
 ```csharp
 public interface IMyDependency
